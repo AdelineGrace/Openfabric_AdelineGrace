@@ -29,6 +29,7 @@ public void user_visits_Openfabric_webpage() throws IOException {
 	Log.info("Navigated to Home Page");
 }
 
+
 @Then("User lands on login page")
 public void user_lands_on_login_page() {
     String expectedUrl = ConfigReader.getProperty("expectedUrl");
