@@ -1,0 +1,95 @@
+[INFO ] 2024-01-23 22:30:36.268 [main] Log - Openfabric webpage navigation
+[INFO ] 2024-01-23 22:30:36.447 [main] Log - User in Openfabric Login Page
+[INFO ] 2024-01-23 22:30:36.503 [main] Log - ...installing Metamask....
+[INFO ] 2024-01-23 22:30:36.548 [main] Log - ...installing Metamask....
+[INFO ] 2024-01-23 22:30:36.600 [main] Log - User in Openfabric Login Page
+[INFO ] 2024-01-23 22:30:36.732 [main] Log - User in Openfabric Login Page
+[INFO ] 2024-01-23 22:30:36.828 [main] Log - User in Openfabric Login Page
+[INFO ] 2024-01-23 22:30:36.933 [main] Log - User in Openfabric Login Page
+[INFO ] 2024-01-23 22:30:37.033 [main] Log - User in Openfabric Login Page
+[INFO ] 2024-01-23 22:30:37.084 [main] Log - User in Openfabric Login Page
+[INFO ] 2024-01-23 22:30:37.123 [main] Log - User stays on the same Openfabric Login page
+[INFO ] 2024-01-23 22:30:37.126 [main] Log - Clicking AI Marketplace dropdown
+[INFO ] 2024-01-23 22:30:37.131 [main] Log - All available AI apps page
+[INFO ] 2024-01-23 22:30:37.163 [main] Log - User stays on the same Openfabric Login page
+[INFO ] 2024-01-23 22:30:37.164 [main] Log - Clicking AI Marketplace dropdown
+[INFO ] 2024-01-23 22:30:37.165 [main] Log - Clicking the favourite AI app
+[INFO ] 2024-01-23 22:30:37.190 [main] Log - User stays on the same Openfabric Login page
+[INFO ] 2024-01-23 22:30:37.192 [main] Log - Clicking AI Marketplace dropdown
+[ERROR] 2024-01-23 22:30:37.200 [main] Log - Not able to select AI app
+[INFO ] 2024-01-23 22:30:37.235 [main] Log - User stays on the same Openfabric Login page
+[INFO ] 2024-01-23 22:30:37.242 [main] Log - Click the AI app
+[INFO ] 2024-01-23 22:30:37.278 [main] Log - User stays on the same Openfabric Login page
+[INFO ] 2024-01-23 22:30:37.294 [main] Log - Click the AI app
+[ERROR] 2024-01-23 22:30:37.297 [main] Log - AI app selection failed
+[INFO ] 2024-01-23 22:30:37.323 [main] Log - AI app page
+[INFO ] 2024-01-23 22:30:37.352 [main] Log - AI app page
+[INFO ] 2024-01-23 22:30:37.433 [main] Log - AI app page
+[INFO ] 2024-01-23 22:30:37.434 [main] Log - Clicking +Create Instances
+[INFO ] 2024-01-23 22:30:37.436 [main] Log - ....Create instance flow starting...
+[INFO ] 2024-01-23 22:30:37.462 [main] Log - AI app page
+[INFO ] 2024-01-23 22:30:37.463 [main] Log - Clicking +Create Instances
+[ERROR] 2024-01-23 22:30:37.465 [main] Log -  create instance flow not started
+[INFO ] 2024-01-23 22:30:37.481 [main] Log - AI app page
+[INFO ] 2024-01-23 22:30:37.484 [main] Log - Clicking +Create Instances
+[INFO ] 2024-01-23 22:30:37.502 [main] Log - AI app page
+[INFO ] 2024-01-23 22:30:37.503 [main] Log - Clicking +Create Instances
+[INFO ] 2024-01-23 22:30:37.526 [main] Log - AI app page
+[INFO ] 2024-01-23 22:30:37.529 [main] Log - Clicking Infrastructure
+[INFO ] 2024-01-23 22:30:37.559 [main] Log - AI app page
+[INFO ] 2024-01-23 22:30:37.560 [main] Log - Clicking Infrastructure
+[INFO ] 2024-01-23 22:30:37.579 [main] Log - Step 1: Infrastructure chosen
+[INFO ] 2024-01-23 22:30:37.594 [main] Log - Step 1: Infrastructure chosen
+[INFO ] 2024-01-23 22:30:37.613 [main] Log - Infrastructure costs mentioned
+[INFO ] 2024-01-23 22:30:37.617 [main] Log - Successfull Payment
+[INFO ] 2024-01-23 22:30:37.645 [main] Log - Infrastructure costs mentioned
+[ERROR] 2024-01-23 22:30:37.647 [main] Log - Payment failed
+[INFO ] 2024-01-23 22:30:37.665 [main] Log - Installation of AI app started
+[INFO ] 2024-01-23 23:15:05.693 [main] Log - Openfabric webpage navigation
+[INFO ] 2024-01-23 23:15:09.774 [main] Log - Navigated to Home Page
+[INFO ] 2024-01-23 23:15:10.007 [main] Log - User in Openfabric Login Page
+[INFO ] 2024-01-23 23:15:10.132 [main] Log - ...installing Metamask....
+[INFO ] 2024-01-23 23:15:10.237 [main] Log - ...installing Metamask....
+[INFO ] 2024-01-23 23:15:20.355 [main] Log - User in Openfabric Login Page
+[INFO ] 2024-01-23 23:15:20.381 [main] Log - User in Openfabric Login Page
+[INFO ] 2024-01-23 23:15:20.419 [main] Log - User in Openfabric Login Page
+[INFO ] 2024-01-23 23:15:20.449 [main] Log - User in Openfabric Login Page
+[INFO ] 2024-01-23 23:15:20.475 [main] Log - User in Openfabric Login Page
+[INFO ] 2024-01-23 23:15:20.519 [main] Log - User in Openfabric Login Page
+[INFO ] 2024-01-23 23:15:20.541 [main] Log - User stays on the same Openfabric Login page
+[INFO ] 2024-01-23 23:15:20.543 [main] Log - Clicking AI Marketplace dropdown
+[INFO ] 2024-01-23 23:15:20.544 [main] Log - All available AI apps page
+[INFO ] 2024-01-23 23:15:20.565 [main] Log - User stays on the same Openfabric Login page
+[INFO ] 2024-01-23 23:15:20.566 [main] Log - Clicking AI Marketplace dropdown
+[INFO ] 2024-01-23 23:15:20.569 [main] Log - Clicking the favourite AI app
+[INFO ] 2024-01-23 23:15:20.586 [main] Log - User stays on the same Openfabric Login page
+[INFO ] 2024-01-23 23:15:20.589 [main] Log - Clicking AI Marketplace dropdown
+[ERROR] 2024-01-23 23:15:20.592 [main] Log - Not able to select AI app
+[INFO ] 2024-01-23 23:15:20.612 [main] Log - User stays on the same Openfabric Login page
+[INFO ] 2024-01-23 23:15:20.614 [main] Log - Click the AI app
+[INFO ] 2024-01-23 23:15:20.635 [main] Log - User stays on the same Openfabric Login page
+[INFO ] 2024-01-23 23:15:20.639 [main] Log - Click the AI app
+[ERROR] 2024-01-23 23:15:20.642 [main] Log - AI app selection failed
+[INFO ] 2024-01-23 23:15:20.658 [main] Log - AI app page
+[INFO ] 2024-01-23 23:15:40.728 [main] Log - AI app page
+[INFO ] 2024-01-23 23:16:00.916 [main] Log - AI app page
+[INFO ] 2024-01-23 23:16:00.919 [main] Log - Clicking +Create Instances
+[INFO ] 2024-01-23 23:16:00.921 [main] Log - ....Create instance flow starting...
+[INFO ] 2024-01-23 23:16:00.940 [main] Log - AI app page
+[INFO ] 2024-01-23 23:16:00.941 [main] Log - Clicking +Create Instances
+[ERROR] 2024-01-23 23:16:00.942 [main] Log -  create instance flow not started
+[INFO ] 2024-01-23 23:16:00.956 [main] Log - AI app page
+[INFO ] 2024-01-23 23:16:00.958 [main] Log - Clicking +Create Instances
+[INFO ] 2024-01-23 23:16:21.098 [main] Log - AI app page
+[INFO ] 2024-01-23 23:16:21.102 [main] Log - Clicking +Create Instances
+[INFO ] 2024-01-23 23:16:41.232 [main] Log - AI app page
+[INFO ] 2024-01-23 23:16:41.234 [main] Log - Clicking Infrastructure
+[INFO ] 2024-01-23 23:16:41.250 [main] Log - AI app page
+[INFO ] 2024-01-23 23:16:41.251 [main] Log - Clicking Infrastructure
+[INFO ] 2024-01-23 23:16:41.269 [main] Log - Step 1: Infrastructure chosen
+[INFO ] 2024-01-23 23:16:41.287 [main] Log - Step 1: Infrastructure chosen
+[INFO ] 2024-01-23 23:16:41.312 [main] Log - Infrastructure costs mentioned
+[INFO ] 2024-01-23 23:16:41.314 [main] Log - Successfull Payment
+[INFO ] 2024-01-23 23:16:41.365 [main] Log - Infrastructure costs mentioned
+[ERROR] 2024-01-23 23:16:41.367 [main] Log - Payment failed
+[INFO ] 2024-01-23 23:16:41.388 [main] Log - Installation of AI app started
