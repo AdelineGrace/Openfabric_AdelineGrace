@@ -77,6 +77,7 @@ public class Openfabric_page {
 		{
 			return driver.findElement(InvCrede_errmsg).getText();
 		}
+		
 		 public WebElement CreateInstance() {
 		        return placeholder;
 		    }
